@@ -1,0 +1,11 @@
+==========================================================================================
+Source - Wikipedia
+
+X509 - a standard that defines the public key format.
+An X509 cert binds an *Identity* to a *Public Key*.
+Identity - is used to identify an entity which can be a Hostname, Organization, Individuail
+Public Key - Its used to decrypt data encrypted by *Private Key*
+Private Key - A mathematical/computational tool/thing to encrypt data. 
+Signing Authority - A organization that recognizes a certificate
+Certificate Revocation List - These contain information regarding certificates that have been invalidated by a Signing authority. A Signing Authority can only deem ITS certs invalid. 
+==========================================================================================
